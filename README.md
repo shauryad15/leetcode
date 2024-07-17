@@ -1,2 +1,2 @@
-# leetcode
-DSA solutions in python
+# Leetcode Solutions
+DSA practice in Python
